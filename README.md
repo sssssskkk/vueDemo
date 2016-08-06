@@ -2,19 +2,21 @@
 
 ### Vue、Express 完成的一个在线音乐webapp。
 
+项目预览：[http://119.29.198.184/:8080](http://119.29.198.184/:8080)
+
 ## 使用
 
 
-##### install
+#### install
 npm install
 
-##### dev server, localhost:8080
+#### dev server, localhost:8080
 npm run dev
 
-##### build with compress
+#### build with compress
 npm run build
 
-##### Express app server, localhost:4000
+#### Express app server, localhost:4000
 npm start
 
 
